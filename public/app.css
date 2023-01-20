@@ -4,7 +4,7 @@ body {
     padding: 0;
     margin: 0;
     width: 100%;
-    background-color: #CFE9FF;
+    background-color: #ebf2f8;
     
   }
 .header{
@@ -23,4 +23,19 @@ header{
 }
 a{
     margin: 10px;
+}
+.title{
+    margin: 80px;
+    width: 20%;
+    font-size: 20px;
+}
+.promo{
+    position: absolute;
+    bottom: 55%;
+    right: 16%;
+    color: white;
+    background-color: #FC185A;
+    border-radius: 35%;
+    border-bottom-left-radius: 4%;
+    border: 30px #FC185A solid;
 }

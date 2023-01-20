@@ -1,2 +1,2 @@
 
-    <header> <div class="header"> <a> Produits </a> <a> Panier </a> <a> Compte </a> </div> </header>
+    <header> <div class="header"> <a style="display: flex"> Produits <img style="width: 20px; margin-left:5%" src="https://www.svgrepo.com/show/7835/shirt.svg"> </a> <a style="display: flex"> Panier <img style="width: 20px; margin-left:5%" src="https://www.svgrepo.com/show/317939/ecommerce-basket.svg"> </a> <a style="display: flex"> Compte <img style="width: 20px; margin-left:5%"  src="https://www.svgrepo.com/show/491734/users.svg"> </a> </div> </header>
