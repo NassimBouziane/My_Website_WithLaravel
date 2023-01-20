@@ -1,0 +1,26 @@
+body {
+    position: relative;
+    overflow-y:auto;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #CFE9FF;
+    
+  }
+.header{
+    margin-left: 50%;
+    display: flex;
+    gap: 20%;
+    font-size: 25px;
+    
+}
+header{
+    border: solid;
+    border-color: #293845;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+a{
+    margin: 10px;
+}
