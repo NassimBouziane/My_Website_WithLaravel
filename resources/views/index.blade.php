@@ -13,8 +13,7 @@
     <title>E-Commerce Larvel</title>
 </head>
 <body> 
-    <div style="display:flex; gap:20%"> <div class="title"> <h1 style="white-space:nowrap; margin-left:10%"> Bienvenue sur XXX shop</h1> <p style="font-size:40px"> Any time <br> Any place. </p> <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero dolore assumenda possimus consectetur sint, non esse at eaque nihil ratione perspiciatis voluptatum! Dolore fuga minima minus facere vero voluptatem harum?</p> </div> <div> <img style="width:95%; height:90%; margin-top:3%" src="https://bin.staticlocal.ch/localplace-images/18/1801de28df7e4db137dabd03d299e524f6f59275/Diligent%20AdobeStock_264744377.jpg"> <p class="promo"> Promo : 20% </p> </div>    </div>
-    
+    <div style="display:flex; gap:20%"> <div class="title"> <h1 style="white-space:nowrap; margin-left:10%"> Bienvenue sur XXX shop</h1> <p style="font-size:40px"> Any time <br> Any place. </p> <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero dolore assumenda possimus consectetur sint, non esse at eaque nihil ratione perspiciatis voluptatum! Dolore fuga minima minus facere vero voluptatem harum?</p> <button class="landing_page_button"> Commencez vos achats <img style="width: 25px; margin-left: 5px" src="https://cdn-icons-png.flaticon.com/512/2040/2040514.png"> </button> </div> <div> <img style="width:95%; height:90%; margin-top:3%" src="https://bin.staticlocal.ch/localplace-images/18/1801de28df7e4db137dabd03d299e524f6f59275/Diligent%20AdobeStock_264744377.jpg"> <p class="promo"> Promo : 20% </p> </div>    </div>
 
 </body>
 </html>
