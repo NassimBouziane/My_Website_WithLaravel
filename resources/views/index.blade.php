@@ -1,6 +1,4 @@
-{{-- @php
-    $response = Http::get('https://cataas.com/cat?json=true',);
-@endphp --}}
+
 <!DOCTYPE html>
 @include('partials.header')
 
