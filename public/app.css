@@ -30,7 +30,7 @@ a{
 }
 .promo{
     position: absolute;
-    bottom: 55%;
+    bottom: 81%;
     right: 14%;
     color: white;
     background-color: #FC185A;
@@ -51,6 +51,37 @@ a{
     margin-left: 10%;
     box-shadow: rgba(157, 68, 240, 0.5) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 
+}
+.flex_advantages{
+    
+    display: flex;
+    justify-content: space-evenly;
+    gap: 5%;
+}
+.flex_advantages div{
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+}
+.flex_advantages div p:first-of-type{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.flex_advantages div:nth-child(0n+1) div {
+    width: 35%;
+    border-radius: 10%;
+    background-color: #FCDC00;
+}.flex_advantages div:nth-child(0n+2) div {
+    width: 35%;
+    border-radius: 10%;
+    background-color: #05e591;
+}.flex_advantages div:nth-child(0n+3) div {
+    width: 35%;
+    border-radius: 10%;
+    background-color: #FC185A;
 }
 
 @media screen and (max-width: 1500px) {
